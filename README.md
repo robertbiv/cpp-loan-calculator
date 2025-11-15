@@ -1,5 +1,4 @@
-# Loan Calculator
-
+# C++ Loan Calculator
 A simple C++ console application that calculates monthly payments, total amount paid, and interest cost for a loan.
 
 ## Description
